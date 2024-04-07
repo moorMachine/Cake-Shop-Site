@@ -236,7 +236,7 @@ nav > #navi{
 }
 
 
-#komentarz{
+#comment{
 	
 	resize:	none;
 }
@@ -259,19 +259,7 @@ nav > #navi{
 	margin-top:10px;		
 }
 
-.grid_container{
-	
-	display:grid;
-	grid-template-rows:repeat(6,50px);
-	gap:40px;
-	font-size:30px;
-}
 
-.grid_span{
-	
-color:red;	
-	
-}
 
 
 [title="Odwiedz nasze social media"]{
